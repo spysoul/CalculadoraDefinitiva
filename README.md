@@ -1,9 +1,5 @@
 # CalculadoraDefinitiva
 
-<<<<<<< HEAD
-Esta vez si
-
-Maria
-=======
+Lista de personas que consiguieron hacer commit
 Sergio
->>>>>>> e8d4bf61a51f414e2a45ce0ebc103306e1b30b0f
+Maria
