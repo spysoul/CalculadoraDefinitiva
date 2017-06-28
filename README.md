@@ -14,4 +14,4 @@ Maria
 Lista de personas que consiguieron hacer commit
 >>>>>>> 8687638f8f4528d14c7fd050cf0a654ec40dab97
 Sergio
-Maria
+Maria (aunque no muy bien)
