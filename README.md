@@ -2,4 +2,4 @@
 
 Lista de personas que consiguieron hacer commit
 Sergio
-Maria
+Maria (aunque no muy bien)
